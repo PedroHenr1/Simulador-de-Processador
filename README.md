@@ -4,9 +4,9 @@ Status do Projeto: Em desenvolvimento :warning:
 
 Tecnologias utilizadas para esse projeto:
 
-C#
-Windows Forms
-Visual Studio
+- C#
+- Windows Forms
+- Visual Studio
 
 ## ⚒ Descrição do Projeto  
 
