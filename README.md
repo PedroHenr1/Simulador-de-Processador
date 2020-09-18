@@ -23,10 +23,10 @@ Software capaz de simular a forma de como o processador se comunica com as memor
 
 ## :camera: IMAGENS
 
-Instruções:
+- Instruções:
 ![inst](https://user-images.githubusercontent.com/42454309/93554866-df736800-f94a-11ea-8766-8309d8a580fd.png)
 
-Programa:
+- Programa:
 ![Sem título](https://user-images.githubusercontent.com/42454309/93553753-3b89bc80-f94a-11ea-8edc-8ed6ec6e7ab9.png)
 
 ## 📌 Autor/Contato
